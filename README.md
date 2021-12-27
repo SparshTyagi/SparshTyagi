@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SparshTyagi and I have experience in Python, HTML, and C
 - 👀 I’m interested in AI/ML and Cybersecurity
-- 🌱 I’m currently learning CSS, C++, 
+- 🌱 I’m currently learning CSS, C++, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
