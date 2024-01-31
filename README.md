@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SparshTyagi and I have experience in Python, HTML, and C
-- 👀 I’m interested in AI/ML and Cybersecurity
-- 🌱 I’m currently learning Flask and Django
-- 💞️ I’m looking to collaborate on any CyberSec projects that could use a novice asisstant
+- 👋 Hi, I’m @SparshTyagi and I have experience in Python, Java, C++, and C
+- 👀 I’m interested in Blockchain and AI
+- 🌱 I’m currently learning Functional Programming in Java
+- 💞️ I’m looking to collaborate on any interesting projects that need help!
 - 📫 Contact me at sparshtyagi26@gmail.com
 
 <!---
