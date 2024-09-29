@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SparshTyagi and I have experience in Python, Java, C++, and C
 - 👀 I’m interested in Blockchain and AI
-- 🌱 I’m currently learning Functional Programming in Java
+- 🌱 I’m currently learning Functional Programming in OCaml
 - 💞️ I’m looking to collaborate on any interesting projects that need help!
 - 📫 Contact me at sparshtyagi26@gmail.com
 
